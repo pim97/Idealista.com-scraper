@@ -34,3 +34,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Keywords for Idealista.com Program on GitHub:
 Web scraping, Python, Scrapy, Real estate data, Property listings, Idealista.com, Real estate market, Property search, Rental listings, Real estate scraping, Real estate API, Housing data, Property details, Price information, Residential properties, Commercial properties, Property alerts, Real estate news, Mortgage calculators, Real estate professionals, Property seekers.
+
+## Legal and Ethical Considerations
+
+Remember to adhere to legal and ethical guidelines when scraping websites. Always respect the website's terms of service and scraping policies. Ensure your use of the scraped data complies with applicable laws and regulations, especially regarding data privacy and intellectual property rights. 🚫⚖️
+
+*Disclaimer: This web scraping guide is intended solely for educational and informational purposes. Please use web scraping responsibly and in accordance with the terms and conditions of the target website.* 📚🔍
